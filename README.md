@@ -1,0 +1,1 @@
+# automatic_stock_data_collection
