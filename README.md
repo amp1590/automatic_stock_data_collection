@@ -1,7 +1,7 @@
 # automatic_stock_data_collection
 
 This code is the implementation of our paper: https://arxiv.org/pdf/2308.13414.pdf
-To run the Python files which require "yfinance" package, run the following command in the terminal:
+To run the Python files which requires the "yfinance" package, run the following command in the terminal:
 **pip install yfinance**
 
 Then run the .py file:
